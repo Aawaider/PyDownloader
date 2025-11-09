@@ -1,9 +1,9 @@
 # PyDownloader Pro - 专业下载管理器
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-GNU-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-4.0.0-orange.svg)
+![Version](https://img.shields.io/badge/Version-Alpha1-orange.svg)
 
 ## 🚀 项目简介
 
