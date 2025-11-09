@@ -36,7 +36,7 @@ PyDownloader Pro 是一款功能强大的专业下载管理器，采用 Python �
 - **状态监控**：实时显示下载状态和系统信息
 - **批量操作**：支持批量添加和管理下载任务
 
-## 相关链接
+## 🔗相关链接
 **开源地址**:https://github.com/Aawaider/PyDownloader
 
 **Alpha1下载链接**:[Github下载](https://github.com/Aawaider/PyDownloader/releases/tag/Alpha1)，[百度网盘下载](https://pan.baidu.com/s/1OdiP7FerD_1Co5x9zZJ-UQ?pwd=jp76)，[123网盘下载(推荐)](https://www.123865.com/s/uMdgvd-lyWc3)
