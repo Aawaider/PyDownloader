@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-GNU-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Version](https://img.shields.io/badge/Version-Alpha1-orange.svg)
 
 ## 🚀 项目简介
@@ -39,7 +39,9 @@ PyDownloader Pro 是一款功能强大的专业下载管理器，采用 Python �
 ## 🔗相关链接
 **开源地址**:https://github.com/Aawaider/PyDownloader
 
-**Alpha1下载链接**:[Github下载](https://github.com/Aawaider/PyDownloader/releases/tag/Alpha1)，[百度网盘下载](https://pan.baidu.com/s/1OdiP7FerD_1Co5x9zZJ-UQ?pwd=jp76)，[123网盘下载(推荐)](https://www.123865.com/s/uMdgvd-lyWc3)
+**Alpha1下载链接**:[Github下载](https://github.com/Aawaider/PyDownloader/releases/tag/Alpha1)，[百度网盘下载](https://pan.baidu.com/s/1OdiP7FerD_1Co5x9zZJ-UQ?pwd=jp76)，[123网盘下载](https://www.123865.com/s/uMdgvd-lyWc3)
+
+**Alpha2下载链接**:[Github下载](https://github.com/Aawaider/PyDownloader/releases/tag/Alpha2)，[百度网盘下载](https://pan.baidu.com/s/1Ql1UY4VplZ--Hk-_j2qMTw?pwd=7nm3)，[123网盘下载](https://www.123865.com/s/uMdgvd-mVWc3)
 
 ## 📦 安装说明（仅针对于直接克隆仓库的用户）
 
