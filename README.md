@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-GNU-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-Alpha1-orange.svg)
+![Version](https://img.shields.io/badge/Version-Alpha2-orange.svg)
 
 ## 🚀 项目简介
 
